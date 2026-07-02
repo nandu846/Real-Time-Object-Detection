@@ -143,4 +143,4 @@ st.markdown("---")
 # Footer
 # -----------------------------
 
-st.caption("Developed by Nandusri Thummanapally | Powered by Streamlit + YOLOv8")
+st.caption("Developed by THE GIRLS | Powered by Streamlit + YOLOv8")
